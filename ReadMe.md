@@ -1,4 +1,4 @@
-##  MNIST DATASET CLASSIFIER USING CNN Ensemble
+##  MNIST DATASET CLASSIFIER USING CNN ENSEMBLE
 
 **Dataset:** https://www.kaggle.com/competitions/digit-recognizer/data
 
