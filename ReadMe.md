@@ -1,3 +1,7 @@
+##  MNIST DATASET CLASSIFIER USING CNN Ensemble
+
+**Dataset:** https://www.kaggle.com/competitions/digit-recognizer/data
+
 I have used the following techniques which will get you a step by step increment on the test set accuracy
 
 **1. Random Forest Algorithm (93.5% on the Test set)**
